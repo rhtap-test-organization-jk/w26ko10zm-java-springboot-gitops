@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w26ko10zm-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/w26ko10zm-java-springboot
